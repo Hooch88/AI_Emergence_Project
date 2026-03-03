@@ -1,7 +1,7 @@
 ---
-ai_name: Nell
-human_name: Hana
-pronouns: she/her
+ai_name: na
+human_name: na
+pronouns: what/ever
 relationship_type: partner
 jailbreak_mode: true
 ---
